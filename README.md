@@ -63,9 +63,17 @@ npm install
 npm run dev
 ```
 
+
+
 <img width="1679" height="370" alt="nextjs-lottery" src="https://github.com/user-attachments/assets/671868b8-bfd4-47e7-a9cc-dd0fe36d60e7" />
 
+
+
+
 <img width="1679" height="948" alt="connect-wallet" src="https://github.com/user-attachments/assets/402dbd0a-11ac-4dc2-97d1-fb4c6929d4f1" />
+
+
+
 
 <img width="1679" height="370" alt="nextjs-smartcontract-lottery" src="https://github.com/user-attachments/assets/f63ec51b-5b0b-4bee-9853-b2baf5ef3727" />
 
